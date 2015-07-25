@@ -1,1 +1,0 @@
-# Scilab-Image-Processing-Toolbox
