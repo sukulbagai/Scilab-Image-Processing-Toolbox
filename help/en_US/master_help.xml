@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY a5ba0e7d78dc9a0ed405c206fb2348afd SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/blur.xml">
+<!ENTITY a73e10534ed7d7016340f295f672c200e SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/canny.xml">
+<!ENTITY a95d1a3f7267426bbd07b01187f3827ed SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/cornerEigenValAndVecs.xml">
+<!ENTITY a046bf0c3b05a8b095e9198595769059f SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/cornerHarris.xml">
+<!ENTITY a5afe60ea42aebfed23b749d4443f8ceb SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/filter2D.xml">
+<!ENTITY ab67742689e6c939b56d55fcc35942fc3 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/gaussianblur.xml">
+<!ENTITY ae89bed8ca156df669704d510c2148734 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/getTextSize.xml">
+<!ENTITY aefbe3d7ce0355364f8a9ffdc229a7f2a SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/houghlines.xml">
+<!ENTITY a8b26dc713814ba76b9e8b911fdcbcf19 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/houghlinesp.xml">
+<!ENTITY ac402956cf12831520d72c0e61c2cdb3a SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/im2double.xml">
+<!ENTITY a670f892bf3d9307b46665ed87dc0eaf4 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/imcontrast.xml">
+<!ENTITY a26f2faab40a2875b42cfacf9e4ba73e4 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/imcrop.xml">
+<!ENTITY ac7cd9e15e609f3c69b61df701bef168f SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/imread.xml">
+<!ENTITY a640d448f1c5b5835f9e3399248a25d75 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/imresize.xml">
+<!ENTITY ab9517c43d9b5f1c085e621c8684b36c4 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/imsharpen.xml">
+<!ENTITY ababd178984c94a7f211914f6d97a84d2 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/imwrite.xml">
+<!ENTITY a16e51ad08e8017d6ef56b368ad6dd2f7 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/montage.xml">
+<!ENTITY afe2294445bd8f91b8ebc976c4ee0d9d0 SYSTEM "/home/sukul/iitmaterial/Toolbox/help/en_US/undistort.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='image_processing_toolbox_manual'>
+    <title>Image Processing Toolbox</title>
+  </info>
+
+<part xml:id='section_899a49d4ee1d67ced9e2543efb3330a8'>
+<title>Image Processing Toolbox</title>
+&a5ba0e7d78dc9a0ed405c206fb2348afd;
+&a73e10534ed7d7016340f295f672c200e;
+&a95d1a3f7267426bbd07b01187f3827ed;
+&a046bf0c3b05a8b095e9198595769059f;
+&a5afe60ea42aebfed23b749d4443f8ceb;
+&ab67742689e6c939b56d55fcc35942fc3;
+&ae89bed8ca156df669704d510c2148734;
+&aefbe3d7ce0355364f8a9ffdc229a7f2a;
+&a8b26dc713814ba76b9e8b911fdcbcf19;
+&ac402956cf12831520d72c0e61c2cdb3a;
+&a670f892bf3d9307b46665ed87dc0eaf4;
+&a26f2faab40a2875b42cfacf9e4ba73e4;
+&ac7cd9e15e609f3c69b61df701bef168f;
+&a640d448f1c5b5835f9e3399248a25d75;
+&ab9517c43d9b5f1c085e621c8684b36c4;
+&ababd178984c94a7f211914f6d97a84d2;
+&a16e51ad08e8017d6ef56b368ad6dd2f7;
+&afe2294445bd8f91b8ebc976c4ee0d9d0;
+</part>
+</book>

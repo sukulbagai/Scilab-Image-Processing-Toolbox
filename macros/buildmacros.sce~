@@ -1,0 +1,4 @@
+tbx_build_macros(TOOLBOX_NAME,get_absolute_file_path("buildmacros.sce"));
+exec macros/imshow.sci;
+exec macros/show.sci;
+clear tbx_build_macros;

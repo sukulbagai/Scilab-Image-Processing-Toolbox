@@ -1,0 +1,10 @@
+mode(-1)
+lines(0)
+
+TOOLBOX_TITLE = "Image Processing Toolbox via OpenCV"
+
+tbx_build_help(TOOLBOX_TITLE,get_absolute_file_path("builder_help.sce"));
+ok = add_help_chapter('blur',get_absolute_file_path("builder_help.sce"));
+ok = add_help_chapter('imread',get_absolute_file_path("builder_help.sce"));
+
+clear TOOLBOX_TITLE;

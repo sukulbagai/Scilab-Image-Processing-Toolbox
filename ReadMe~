@@ -1,0 +1,12 @@
+ ==========================================================                   
+||           Scilab Image Processing Toolbox              ||
+ ==========================================================
+
+Dependencies
+------------
+Scilab		>= 5.2		(http://www.scilab.org/)
+OpenCV		>= 1.0.0	(http://sourceforge.net/projects/opencvlibrary/)
+
+Usage
+------------
+
